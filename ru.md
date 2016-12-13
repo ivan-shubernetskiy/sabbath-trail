@@ -16,7 +16,7 @@
 
 ---
 
-**Оригинал** - (http://www.detailshere.com/sabbathtrail.htm)(http://www.detailshere.com/sabbathtrail.htm)
+**Оригинал** - [http://www.detailshere.com/sabbathtrail.htm](http://www.detailshere.com/sabbathtrail.htm)
 
 **Перевод** - Раксана Гумбатова
 
