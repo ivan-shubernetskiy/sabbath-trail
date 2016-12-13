@@ -26,4 +26,7 @@
 img {
     width: 100%;
 }
+a img {
+    width: inherit;
+}
 </style>
